@@ -8,4 +8,5 @@ export default defineConfig({
     tsconfigPaths: true,
   },
   plugins: [react(), tailwindcss()],
+  base: "/",
 });
