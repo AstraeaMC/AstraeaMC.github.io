@@ -15,7 +15,7 @@
     "clsx": "2.1.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "6.23.0"
+    "react-router-dom": "^6.30.4"
   },
   "devDependencies": {
     "@eslint/compat": "1.2.8",
@@ -30,7 +30,7 @@
     "@typescript-eslint/eslint-plugin": "8.31.1",
     "@typescript-eslint/parser": "8.31.1",
     "@vitejs/plugin-react": "6.0.2",
-    "eslint": "9.25.1",
+    "eslint": "^9.39.5",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-import": "2.31.0",
     "eslint-plugin-jsx-a11y": "6.10.2",

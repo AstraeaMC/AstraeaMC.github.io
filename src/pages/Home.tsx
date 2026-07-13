@@ -55,10 +55,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="flex flex-row justify-between">
-        <div className="w-152 h-125 bg-amber-50 m-10 rounded-2xl"></div>
-        <div className="w-152 h-125 bg-amber-50 m-10 rounded-2xl"></div>
-      </div>
+      <div></div>
     </>
   );
 }
